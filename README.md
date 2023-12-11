@@ -17,4 +17,5 @@
 ![Kopie von Kopie von Anwedungslogik-Seite-2](https://github.com/HaMzAnAnAaH/HotelBooking_GDW/assets/148029535/4cd95172-0dc3-4c56-8e31-fdb1761c1531)
 
 
-[Kopie von Proof of Concept WS22_23.docx](https://github.com/HaMzAnAnAaH/HotelBooking_GDW/files/13641496/Kopie.von.Proof.of.Concept.WS22_23.docx)
+[Kopie von Proof of Concept WS22_23.docx](https://github.com/HaMzAnAnAaH/HotelBooking_GDW/files/13641776/Kopie.von.Proof.of.Concept.WS22_23.docx)
+
