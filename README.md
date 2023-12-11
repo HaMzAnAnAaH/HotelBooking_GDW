@@ -7,7 +7,8 @@
 [Datenstrukturen.docx](https://github.com/HaMzAnAnAaH/HotelBooking_GDW/files/13641438/Datenstrukturen.docx)
 
 
-[Google Maps API_.docx](https://github.com/HaMzAnAnAaH/HotelBooking_GDW/files/13641454/Google.Maps.API_.docx)
+[Google Maps API_.docx](https://github.com/HaMzAnAnAaH/HotelBooking_GDW/files/13641722/Google.Maps.API_.docx)
+
 
 [REST_table.docx](https://github.com/HaMzAnAnAaH/HotelBooking_GDW/files/13641475/REST_table.docx)
 
